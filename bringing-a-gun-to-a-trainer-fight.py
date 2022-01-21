@@ -44,6 +44,8 @@ Input:
 solution.solution([300,275], [150,150], [185,100], 500)
 Output:
     9
+
+#https://www.figma.com/file/yF6dbs4rl9g1h7ocJ9NnOQ/Untitled?node-id=0%3A1
 """
 
 from math import sqrt, atan, degrees
