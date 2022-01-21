@@ -46,6 +46,7 @@ Output:
     9
 
 #https://www.figma.com/file/yF6dbs4rl9g1h7ocJ9NnOQ/Untitled?node-id=0%3A1
+https://www.desmos.com/calculator/onydjjnaxc
 """
 
 from math import sqrt, atan, degrees
